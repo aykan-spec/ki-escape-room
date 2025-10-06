@@ -12,7 +12,7 @@ const levels = [
   },
   {
     text: "Ein Roboter blockiert den Ausgang. Er sagt: 'Ich erkenne dich nur, wenn du sagst, was KI in deinem Handy tut (z.B. Siri oder Alexa).'",
-    answer: "sprachassistent",
+    answer: "spracherkennung",
   },
   {
     text: "Eine Tür öffnet sich. Auf einem Bildschirm steht: 'KI kann aus Daten lernen. Wie nennt man das?'",
