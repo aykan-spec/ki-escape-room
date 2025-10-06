@@ -16,7 +16,7 @@ const levels = [
   },
   {
     text: "Eine Tür öffnet sich. Auf einem Bildschirm steht: 'KI kann aus Daten lernen. Wie nennt man das?'",
-    answer: "machine learning",
+    answer: "lernen",
   },
   {
     text: "Letztes Rätsel: 'Was bist du gerade dabei zu spielen?'",
